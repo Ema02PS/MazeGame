@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_boss",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_env_bottle",
+  "eventList":[],
   "managed":true,
-  "name":"obj_boss",
+  "name":"obj_env_bottle",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_boss_right",
-    "path":"sprites/spr_boss_right/spr_boss_right.yy",
+    "name":"spr_env_bottle",
+    "path":"sprites/spr_env_bottle/spr_env_bottle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
