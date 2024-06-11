@@ -43,6 +43,7 @@
     {"id":{"name":"obj_power_up","path":"objects/obj_power_up/obj_power_up.yy",},},
     {"id":{"name":"obj_raccoon","path":"objects/obj_raccoon/obj_raccoon.yy",},},
     {"id":{"name":"obj_tail","path":"objects/obj_tail/obj_tail.yy",},},
+    {"id":{"name":"obj_env_bottle","path":"objects/obj_env_bottle/obj_env_bottle.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_boss_left","path":"sprites/spr_boss_left/spr_boss_left.yy",},},
