@@ -17,3 +17,10 @@ var_speed = 2;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "var_animation_speed"
 var_animation_speed = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 689E238B
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "is_firing"
+is_firing = false;
