@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 333FABB1
+/// @DnDArgument : "var" "image_angle"
+image_angle = 0;
+
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 29C0A723

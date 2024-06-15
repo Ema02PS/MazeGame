@@ -1,11 +1,26 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
+/// @DnDVersion : 1.1
+/// @DnDHash : 642F4F8D
+/// @DnDArgument : "direction" "90"
+direction = 90;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 6AF12C82
-/// @DnDArgument : "code" "if (y >= 300) {$(13_10)    direction = 90;$(13_10)	speed = var_speed;$(13_10)	sprite_index = spr_raccoon_back;$(13_10)	} else {$(13_10)    speed = 0;$(13_10)}"
-if (y >= 300) {
-    direction = 90;
-	speed = var_speed;
-	sprite_index = spr_raccoon_back;
-	} else {
-    speed = 0;
-}
+/// @DnDHash : 64D34929
+/// @DnDArgument : "speed" "var_speed"
+speed = var_speed;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 44031DCE
+/// @DnDArgument : "imageind_relative" "1"
+/// @DnDArgument : "spriteind" "spr_raccoon_back"
+/// @DnDSaveInfo : "spriteind" "spr_raccoon_back"
+sprite_index = spr_raccoon_back;
+image_index += 0;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 140F20F2
+/// @DnDArgument : "speed" "var_animation_speed"
+image_speed = var_animation_speed;
