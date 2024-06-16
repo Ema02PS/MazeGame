@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_env_bag",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_tail","path":"objects/obj_tail/obj_tail.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_env_bag",
   "overriddenProperties":[],
@@ -26,7 +28,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_env_bag",
     "path":"sprites/spr_env_bag/spr_env_bag.yy",
