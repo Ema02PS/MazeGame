@@ -54,6 +54,7 @@
     {"name":"spr_env_fish","order":10,"path":"sprites/spr_env_fish/spr_env_fish.yy",},
     {"name":"spr_env_hydrant","order":9,"path":"sprites/spr_env_hydrant/spr_env_hydrant.yy",},
     {"name":"spr_env_trash","order":14,"path":"sprites/spr_env_trash/spr_env_trash.yy",},
+    {"name":"spr_fade","order":26,"path":"sprites/spr_fade/spr_fade.yy",},
     {"name":"spr_final","order":25,"path":"sprites/spr_final/spr_final.yy",},
     {"name":"spr_life","order":24,"path":"sprites/spr_life/spr_life.yy",},
     {"name":"spr_minion_back","order":21,"path":"sprites/spr_minion_back/spr_minion_back.yy",},
@@ -67,6 +68,6 @@
     {"name":"spr_raccoon_right","order":4,"path":"sprites/spr_raccoon_right/spr_raccoon_right.yy",},
     {"name":"spr_tail","order":15,"path":"sprites/spr_tail/spr_tail.yy",},
     {"name":"spr_wall","order":16,"path":"sprites/spr_wall/spr_wall.yy",},
-    {"name":"spr_fade","order":26,"path":"sprites/spr_fade/spr_fade.yy",},
+    {"name":"spr_menu_background","order":27,"path":"sprites/spr_menu_background/spr_menu_background.yy",},
   ],
 }
