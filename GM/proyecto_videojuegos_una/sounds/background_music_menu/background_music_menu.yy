@@ -1,16 +1,16 @@
 {
   "$GMSound":"",
-  "%Name":"background_music",
+  "%Name":"background_music_menu",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
   "bitRate":128,
-  "compression":1,
+  "compression":0,
   "conversionMode":0,
   "duration":89.088,
-  "name":"background_music",
+  "name":"background_music_menu",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"background_music.mp3",
+  "soundFile":"background_music_menu.mp3",
   "type":0,
   "volume":1.0,
 }

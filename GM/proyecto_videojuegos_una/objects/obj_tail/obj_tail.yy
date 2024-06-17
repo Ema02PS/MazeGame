@@ -10,6 +10,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_cone","path":"objects/obj_cone/obj_cone.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_env_hydrant","path":"objects/obj_env_hydrant/obj_env_hydrant.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_minion","path":"objects/obj_minion/obj_minion.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_minion_alt","path":"objects/obj_minion_alt/obj_minion_alt.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_tail",
