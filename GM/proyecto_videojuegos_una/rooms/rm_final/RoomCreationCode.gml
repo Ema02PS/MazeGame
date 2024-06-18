@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Audio.Stop_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 1008511B
+/// @DnDHash : 6811F8DF
 /// @DnDArgument : "soundid" "snd_background_music"
 /// @DnDSaveInfo : "soundid" "snd_background_music"
 audio_stop_sound(snd_background_music);
