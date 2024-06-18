@@ -1,13 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 48614CC5
-/// @DnDArgument : "code" "if (global.vidas_boss <= 0) {$(13_10)	instance_destroy(obj_boss);$(13_10)	room_goto(rm_game_over);$(13_10)	$(13_10)}$(13_10)"
-if (global.vidas_boss <= 0) {
-	instance_destroy(obj_boss);
-	room_goto(rm_game_over);
-	
-}
-
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 431E8882
