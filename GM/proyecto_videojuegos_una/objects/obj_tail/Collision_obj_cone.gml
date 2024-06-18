@@ -1,5 +1,4 @@
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 3E2D35B7
-/// @DnDApplyTo : other
+/// @description Execute Code
+global.puntaje +=1;
+
 with(other) instance_destroy();
