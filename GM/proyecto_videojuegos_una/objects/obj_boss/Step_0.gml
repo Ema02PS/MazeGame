@@ -1,3 +1,16 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 2797D5E4
+/// @DnDArgument : "code" "if (global.vidas_boss <= 0) {$(13_10)    // Crear objeto obj_final en el centro de la habitación$(13_10)	instance_destroy(obj_raccoon);$(13_10)	instance_destroy(obj_boss);$(13_10)	audio_stop_all();$(13_10)	global.puntaje += 100;$(13_10)	room_goto(rm_victory);$(13_10)}"
+if (global.vidas_boss <= 0) {
+    // Crear objeto obj_final en el centro de la habitación
+	instance_destroy(obj_raccoon);
+	instance_destroy(obj_boss);
+	audio_stop_all();
+	global.puntaje += 100;
+	room_goto(rm_victory);
+}
+
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 431E8882
