@@ -19,9 +19,3 @@ global.puntaje = false;
 global.nivel = 1;
 global.vida_extra = 1;
 global.vidas_boss = 10;
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 008D592A
-/// @DnDArgument : "steps" "200"
-alarm_set(0, 200);
