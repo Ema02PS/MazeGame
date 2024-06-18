@@ -1,7 +1,7 @@
 {
   "$GMRoom":"",
   "%Name":"rm_final",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_final/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -23,7 +23,7 @@
     {"name":"inst_2901DEBE","path":"rooms/rm_final/rm_final.yy",},
     {"name":"inst_45FB2E59","path":"rooms/rm_final/rm_final.yy",},
   ],
-  "isDnd":false,
+  "isDnd":true,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_33CC44E4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33CC44E4","objectId":{"name":"obj_raccoon","path":"objects/obj_raccoon/obj_raccoon.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":96.0,"y":416.0,},
