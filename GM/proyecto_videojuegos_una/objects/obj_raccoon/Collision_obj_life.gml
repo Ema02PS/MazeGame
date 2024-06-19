@@ -10,3 +10,11 @@ global.vidas += 1;
 /// @DnDHash : 3D4A68CD
 /// @DnDApplyTo : other
 with(other) instance_destroy();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 04C22CD2
+/// @DnDArgument : "soundid" "snd_life"
+/// @DnDArgument : "gain" "0.45"
+/// @DnDSaveInfo : "soundid" "snd_life"
+audio_play_sound(snd_life, 0, 0, 0.45, undefined, 1.0);

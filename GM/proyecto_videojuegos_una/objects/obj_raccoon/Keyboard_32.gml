@@ -44,6 +44,6 @@ if(cant_tail > 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 054E8393
 	/// @DnDParent : 11E29EEA
-	/// @DnDArgument : "steps" "4"
-	alarm_set(0, 4);
+	/// @DnDArgument : "steps" "6"
+	alarm_set(0, 6);
 }

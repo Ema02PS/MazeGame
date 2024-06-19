@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_destruction",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.104,
+  "name":"snd_destruction",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Shaders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_destruction.mp3",
+  "type":0,
+  "volume":0.7,
+}

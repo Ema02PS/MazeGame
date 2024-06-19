@@ -26,3 +26,11 @@ with(obj_score) {
 alarm_set(0, 30);
 
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 10206D4F
+/// @DnDArgument : "soundid" "snd_damage"
+/// @DnDArgument : "gain" "0.90"
+/// @DnDSaveInfo : "soundid" "snd_damage"
+audio_play_sound(snd_damage, 0, 0, 0.90, undefined, 1.0);
