@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_cone",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_tail","path":"objects/obj_tail/obj_tail.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_cone",
   "overriddenProperties":[],

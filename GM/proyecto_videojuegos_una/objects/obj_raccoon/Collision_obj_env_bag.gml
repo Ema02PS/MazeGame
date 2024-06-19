@@ -18,3 +18,11 @@ else
 /// @DnDHash : 16E56FAE
 /// @DnDApplyTo : other
 with(other) instance_destroy();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 1CB52B47
+/// @DnDArgument : "soundid" "snd_damage"
+/// @DnDArgument : "gain" "0.90"
+/// @DnDSaveInfo : "soundid" "snd_damage"
+audio_play_sound(snd_damage, 0, 0, 0.90, undefined, 1.0);

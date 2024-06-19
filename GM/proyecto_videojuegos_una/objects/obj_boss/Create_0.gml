@@ -10,7 +10,7 @@ image_speed = 1;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "expr_1" "1"
 /// @DnDArgument : "expr_2" "90"
-/// @DnDArgument : "expr_3" "10"
+/// @DnDArgument : "expr_3" "15"
 /// @DnDArgument : "var" "boss_speed"
 /// @DnDArgument : "var_1" "boss_animation_speed"
 /// @DnDArgument : "var_2" "boss_direction"
@@ -18,7 +18,7 @@ image_speed = 1;
 boss_speed = 1;
 boss_animation_speed = 1;
 boss_direction = 90;
-global.vidas_boss = 10;
+global.vidas_boss = 15;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
