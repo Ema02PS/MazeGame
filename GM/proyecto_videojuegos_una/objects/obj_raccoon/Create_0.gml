@@ -30,3 +30,10 @@ var_animation_speed = 1;
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "is_firing"
 is_firing = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 62FC3FCE
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "vulnerable"
+vulnerable = true;

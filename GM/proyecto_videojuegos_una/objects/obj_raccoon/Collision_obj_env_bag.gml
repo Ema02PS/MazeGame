@@ -1,9 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 2AD1CD45
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)global.vidas -= 1;$(13_10)$(13_10)if(global.puntaje>=2){$(13_10)	global.puntaje -=2;$(13_10)}$(13_10)else$(13_10){$(13_10)	global.puntaje = 0;$(13_10)	}"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if(vulnerable) { $(13_10)	global.vidas -= 1;$(13_10)}$(13_10)$(13_10)if(global.puntaje>=2){$(13_10)	global.puntaje -=2;$(13_10)}$(13_10)else$(13_10){$(13_10)	global.puntaje = 0;$(13_10)	}"
 /// @description Execute Code
-global.vidas -= 1;
+if(vulnerable) { 
+	global.vidas -= 1;
+}
 
 if(global.puntaje>=2){
 	global.puntaje -=2;
